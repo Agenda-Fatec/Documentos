@@ -1,0 +1,45 @@
+Proposta de Valor:
+
+- Desenvolver um software de gerenciamento e agendamento de salas com o objetivo de facilitar e otimizar a questão da disponibilidade e utilização das salas da Fatec Jahu.
+
+Parcerias - Chave:
+
+- Fatec Jahu.
+
+Atividades - Chave:
+
+- Gerenciamento;
+
+- Agendamento.
+
+Recursos:
+
+- Desenvolvedores (Alunos.);
+
+- Computadores;
+
+- Internet;
+
+- Ferramentas de Desenvolvimento (Visual Studio, Visual Studio Code, etc.).
+
+Relacionamento com o Cliente:
+
+- Email e WhatsApp (Chatbot.).
+
+Segmento de Mercado:
+
+- Alunos e professores que frequentam a Fatec Jahu.
+
+Canais de Comunicação:
+
+- Redes Sociais (Facebook, Instagram, LinkedIn, etc.);
+
+- Site da Fatec Jahu.
+
+Estrutura de Custos:
+
+- Hospedagem.
+
+Fontes de Receita:
+
+- Possíveis anúncios.

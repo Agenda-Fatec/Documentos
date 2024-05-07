@@ -1,0 +1,15 @@
+- Tela de Cadastro e Login; ✔ (Requisito Funcional 01.)
+
+- Tela de apresentação do site; ✔ (Requisito Funcional 02.)
+
+- Tela de exibição dos locais dos blocos e suas salas (Integração com a funcionalidade de agendamento, citada abaixo.); ❌ (Requisito Funcional 03.)
+
+- Tela de exibição de salas e seus respectivos status para cada agendamento (Disponível, indisponível, agendado, em análise, etc.); ✔ (Requisito Funcional 04.)
+
+- Tela de exibição de uma descrição da sala e listagem de seus equipamentos; ✔ (Requisito Funcional 05.)
+
+- Tela de agendamento (Exibição das salas, dias disponíveis e horários disponíveis desses dias); ✔ (Requisito Funcional 06.)
+
+- Tela de listagem de salas que o usuário agendou; ❌ (Requisito Funcional 07.)
+
+- Tela de como utilizar o site. ❌ (Requisito Funcional 08.)

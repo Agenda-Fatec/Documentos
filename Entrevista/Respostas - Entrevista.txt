@@ -1,0 +1,67 @@
+1.Como é realizado o agendamento de salas atualmente?
+
+- Usam uma planilha com uma aba por sala;
+
+- Dividida em dias das semana e horários dos mesmos;
+
+- Os horários fixos de aula já ficam marcados;
+
+- Ao ser solicitada uma sala, o auxiliar de docente abre a planilha e verifica a disponibilidade das salas;
+
+- Ao escolher uma data e sala disponível, usa-se um papel para anotar o professor, a sala e o horário desejado;
+
+- Verificam no papel impresso se a sala desejada está disponível, caso não, eles marcam no papel;
+
+- O único sistema online que eles tem, são as grades dos horários.
+
+2.Quem tem acesso ao sistema de agendamento?
+
+- Somente os auxiliares de docente;
+
+- Um auxiliar por curso.
+
+3.Quais problemas são enfrentados no sistema de agendamento atual?
+
+- Tirando alguns imprevistos, nãoo enfrentam problemas grandes;
+
+- Mudanças inesperadas de horário podem ser consideradas um problema;
+
+- Quando um professor quer solicitar uma sala, procura o auxiliar de docente, que verifica a planilha e depois vai nas salas (Processo demorado.);
+
+- Os agendamentos são feitos de forma manual (Papel.).
+
+4.Como você realizaria a otimização do agendamento atual e quais funcionalidades são esperadas deste software?
+
+Sugestões:
+
+- Inserir a data, o horário e depois mostrar as salas disponíveis;
+
+- A primeiro momento, somente os auxiliares terem acesso, e, posteriormente, os professores.
+
+Funcionalidades:
+
+- Pesquisar por salas disponíveis em determinado horário;
+
+- Substituir as planilhas pelo sistema (Ou trabalhar em conjunto com ela.);
+
+5.Quais as limitações do sistema (Qual o prazo minimo/máximo para solicitar um agendamento? Um professor/aluno pode fazer quantos agendamentos por dia/semana? Etc.)?
+
+- Auxiliar pode agendar a partir do dia atual para até 15 dias a frente, no máximo;
+
+- Alunos podem agendar uma sala, desde que um dos alunos assine um termo de responsabilidade por ela;
+
+- Ao estar livre uma sala, pode-se agendá-la, mesmo que se planeje usá-la imediatamente.
+
+Problemas ocorridos:
+
+- Professor agendou durante 1 mês inteiro uma sala (O que não é permitido.) e houve conflito com outro professor.
+
+Soluções propostas:
+
+- Haver algum tipo de limitação no sistema.
+
+6.Você já utilizou um sistema de agendamento? Se sim, qual e como isso te ajudou?
+
+Agenda do Google (Funciona bem.);
+
+Calendário da Microsoft (Funciona bem.).
