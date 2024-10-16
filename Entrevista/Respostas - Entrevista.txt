@@ -22,7 +22,7 @@
 
 3.Quais problemas são enfrentados no sistema de agendamento atual?
 
-- Tirando alguns imprevistos, nãoo enfrentam problemas grandes;
+- Tirando alguns imprevistos, não enfrentam problemas grandes;
 
 - Mudanças inesperadas de horário podem ser consideradas um problema;
 
